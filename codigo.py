@@ -7,3 +7,4 @@ while i<10:
 		print i, "es impar"
 	i=i+1
 raw_input()
+print "Sofi was here :O"
